@@ -10,3 +10,7 @@ Copy logstash.init to /etc/init.d/logstash
 	update-rc.d logstash defaults
 
 Copy logstash-syslog.conf in /etc/logstash/logstash-syslog.conf
+
+# Source
+
+Init script from https://github.com/mrlesmithjr/Logstash_Kibana3
